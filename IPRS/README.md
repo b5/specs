@@ -115,7 +115,7 @@ It is easy to be agnostic to transport, replication, and validity scheme as long
 
 ### The Objects
 
-IPRS records are expressed as [merkledag](../merkledag) objects. This means that the records are linked authenticated data structures, and can be natively replicated over IPFS itself and other merkledag distribution systems.
+IPRS records are expressed as [merkledag](https://github.com/ipfs/specs/tree/master/merkledag) objects. This means that the records are linked authenticated data structures, and can be natively replicated over IPFS itself and other merkledag distribution systems.
 
 The objects:
 
